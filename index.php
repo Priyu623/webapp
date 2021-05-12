@@ -1,5 +1,5 @@
 <?php
 
-print"WELCOME TO OCP FIRST"
+print"WELCOME TO OCP second"
   
 ?>
